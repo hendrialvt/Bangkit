@@ -9,7 +9,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: 02-solution-study-case
+          ref: Aplikasi Login
       
       - name: Build
         uses: andstor/jsdoc-action@v1
