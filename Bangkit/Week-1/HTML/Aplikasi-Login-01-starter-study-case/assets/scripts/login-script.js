@@ -1,10 +1,3 @@
-/*
- * Catatan:
- * Gunakan fungsi goToHome() untuk menampilkan halaman home
- * Gunakan fungsi goToLogin() untuk menampilkan halaman login
- * Gunakan fungsi showPopUp() untuk menampilkan pop up error
- */
-
 /* Comment : Membuat variabel untuk setiap elemen view. */
 const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
