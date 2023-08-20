@@ -1,6 +1,10 @@
 name: JSDoc build on GitHub repo
 
-on: [push, workflow_dispatch]
+on:
+  push:
+    branches:
+      - main  # Replace with the correct branch name
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -9,15 +13,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: Aplikasi Login
-      
+          ref: main  # Replace with the correct branch name
+
       - name: Build
         uses: andstor/jsdoc-action@v1
         with:
-          source_dir: ./assets
+          source_dir: ./Bangkit/Week%201/Aplikasi%20Login/assets  # URL-encoded path
           recurse: true
           output_dir: ./out
-          config_file: ./assets/jsdoc/conf.json
+          config_file: ./Bangkit/Week%201/Aplikasi%20Login/assets/jsdoc/conf.json  # URL-encoded path
           template: minami
           front_page: README.md
 
