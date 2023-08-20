@@ -24,27 +24,27 @@ Mengikuti kegiatan-kegiatan:
 Mempelajari materi-materi:
 
 1.	Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-•	Persiapan Belajar
-•	Memahami Kebutuhan Aplikasi
-•	Perencanaan Modifikasi Aplikasi
-•	Mengerti Konsep Dasar Pemrograman
-•	Modifikasi Aplikasi Perangkat Lunak
-•	Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
-•	Final Test
+     - Persiapan Belajar
+     - Memahami Kebutuhan Aplikasi
+	- Perencanaan Modifikasi Aplikasi
+	- Mengerti Konsep Dasar Pemrograman
+	- Modifikasi Aplikasi Perangkat Lunak
+	- Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+	- Final Test
 
 2.	Belajar Dasar Git dengan Github
-•	Git dan Github
-•	Dasar Git
-•	Studi Kasus Pengalaman Belajar
-•	Git Branches
-•	Kolaborasi dengan Tim
-•	Studi Kasus Kolaborasi
-•	Github sebagai Portofolio
-•	Final Test
+	- Git dan Github
+	- Dasar Git
+	- Studi Kasus Pengalaman Belajar
+	- Git Branches
+	- Kolaborasi dengan Tim
+	- Studi Kasus Kolaborasi
+	- Github sebagai Portofolio
+	- Final Test
 
 3.	Pengenalan ke Logika Pemrograman (Progamming Logic 101)
-•	Pendahuluan Logika Pemrograman
-•	Gerbang Logika
-•	Pengenalan Dasar Computational Thinking
-•	Studi Kasus dan Final Test
+	- Pendahuluan Logika Pemrograman
+	- Gerbang Logika
+	- Pengenalan Dasar Computational Thinking
+	- Studi Kasus dan Final Test
 </details>
