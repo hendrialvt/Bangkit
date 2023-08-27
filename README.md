@@ -48,3 +48,29 @@ Mempelajari materi-materi:
 	- Pengenalan Dasar Computational Thinking
 	- Studi Kasus dan Final Test
 </details>
+
+## Week 2 (27/08/2023)
+<details>
+<summary>Open</summary>
+
+Following activities:
+1. Attending ILT-SS-01-AH which learn about Fixed Mindset, Growth Mindset, and Giving/Receiving a Proper Feedback.
+2. English Pretest. 
+3. Weekly Consultant which learn about the rules and introduction with other member of the same group, we also asked a bunch of question to the mentor about the problem we were facing.
+
+Study Material Completed:
+Crash course on Phython
+	-Introduction to Programming
+	-Introduction to Python
+	-Basic Syntax
+	-Expression and Variables
+	-Functions
+	-Condtitionals
+	-Loops
+	-While Loops
+	-For Loops
+	-Recursion
+	-Strings, List, and Dictionaries
+
+Completed the first course on coursera "Crash Course on Python" with a grade of 97.50%. I didn’t complete the week 5 of the material because it was optional.
+</details>
