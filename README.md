@@ -99,3 +99,70 @@ Completed the first course on coursera "Crash Course on Python" with a grade of 
 - Growth Mindset and The Power Of Feedback.
   
 </details>
+
+## Week 4 (1o/09/2023)
+<details>
+<summary>Open</summary>
+
+Start Course: Analyze Data to Answer Questions 
+Week 1 
+- Hands-On Activity: SQL sorting queries 
+- Hands-On Activity: Analyze weather data in BigQuery Querys 
+
+Week 2 
+- CAST and CONVERT: SQL Server reference documentation 
+- MySQL CAST Functions and Operators: MySQL reference documentation
+- How to: SQL Type Casting: Blog about type casting that has links to other SQL short guides
+
+Week 3: 
+- VLOOKUP resources for Microsoft Excel.
+- SQL Join and Database Join.
+  
+Start Courses: Ask Questions to Make Data-Driven Decision 
+
+Week 1: 
+- Learning Log Template: Consider what data means to you. 
+
+Week 2:
+- How one retailer’s data strategy powers seamless customer experiences.
+- How one of the world’s biggest marketers ripped up its playbook and learned to anticipate intent.
+- Dashboard 
+- Designing compelling dashboards 
+- 6 real-world examples of business intelligence dashboards.
+- Requirements Gathering Worksheet 
+- Effective questions. 
+- Tableau’s Viz Gallery 
+- Tableau’s Viz of the Day 
+- Filter Actions.
+Week 3:
+- Google Sheets shortcuts 
+- Microsoft Excel shortcuts 
+- More about spreadsheet errors and fixes 
+- DAC2 Keyboard functions 1 
+- DAC2 Keyboard functions 2 
+- Scope of Work
+  
+</details>
+
+
+## Week 5 (17/09/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- Student Team Meeting 1
+- ILT-EN-01-120 Spoken Correspondence
+- ILT-ML-02-BH Data Analytics
+- Weekly Consultation 4 
+
+## Study Material Completed: Crash Course on Phython
+- Prepare Data for Exploration.
+- Process Data from Dirty to Clean.
+- Analyze Data to Answer Questions.
+- Share Data Through the Art of Visualization.
+
+## Finished Assigment:
+- Online Learning #02.
+- Time Management Assignment
+  
+</details>
