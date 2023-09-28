@@ -192,3 +192,24 @@ Week 3:
 - Singularity and rank of linear transformations.
 - Finding Eigenvalue and Eigenvectors.
   </details>
+</details>
+
+## Week 7 (1/10/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- Redo Quiz ILT-SS-03 Twice.
+- ILT-ML-03-AP Introduction to Machine Learning.
+- Weekly Consultation 6 - ML -25.
+
+
+## Study Material Completed: Mathematics for Machine Learning and Data Science Specialization
+- Linear Algebra for Machine Learning and Data Science.
+- Calculus for Machine Learning and Data Science.
+- Probability & Statistics for Machine Learning & Data Science.
+
+## Finished Assigment:
+- Online Learning #03.
+- Critical Thinking and Problem-Solving Assignment.
+
