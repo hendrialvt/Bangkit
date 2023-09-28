@@ -166,3 +166,29 @@ Week 3:
 - Time Management Assignment
   
 </details>
+
+## Week 6 (24/09/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- Submitted Report Learning to Supervisor.
+- Completed Milestone 1. (But maybe miss one or two Feedback).
+- ILT-SS-03-BL Critical Thinking and Problem Solving.
+- Weekly Consultation 5 - ML-25.
+
+## Study Material Completed: Linear Algebra for Machine Learning and Data Science
+- System of sentences.
+- System of equations.
+- System of equations as lines.
+- Matrix (2x) and Matrix (3x3).
+- Find the determinant of the matrixes.
+- Trying to solve system of linear equations.
+- Learn about vector.
+- Dot product and multiplying by scalar also to matrix.
+- Finding matrix inverse.
+- Type of Matrix.
+- Finding determinant of area, product, and inverses.
+- Singularity and rank of linear transformations.
+- Finding Eigenvalue and Eigenvectors.
+  </details>
