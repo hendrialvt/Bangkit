@@ -191,7 +191,7 @@ Week 3:
 - Finding determinant of area, product, and inverses.
 - Singularity and rank of linear transformations.
 - Finding Eigenvalue and Eigenvectors.
-  </details>
+
 </details>
 
 ## Week 7 (1/10/2023)
@@ -212,4 +212,17 @@ Week 3:
 ## Finished Assigment:
 - Online Learning #03.
 - Critical Thinking and Problem-Solving Assignment.
+</details>
 
+## Week 8 (8/10/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- ILT-SS-04-AG Adaptability and Resilience.
+- Weekly Consultation 7 - ML-25.
+
+## Study Material Completed: 
+- Supervised Machine Learning: Regression and Classification.
+- Advanced Learning Algorithms.
+</details>
