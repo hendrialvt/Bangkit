@@ -226,3 +226,21 @@ Week 3:
 - Supervised Machine Learning: Regression and Classification.
 - Advanced Learning Algorithms.
 </details>
+
+## Week 9 (15/10/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- Bangkit 2023 H2 - Student Team Meeting 2.
+- LT-ML-04-AU Introduction to Unsupervised Learning & ANN.
+- Weekly Consultation 8 - ML-25.
+
+## Study Material Completed: 
+- Unsupervised Learning, Recommenders, Reinforcement Learning.
+
+## Finished Assigment: 
+- Online Learning #04.
+- Assignment: Adaptability and Resilience.
+
+</details>
