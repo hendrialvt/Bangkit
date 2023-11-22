@@ -244,3 +244,61 @@ Week 3:
 - Assignment: Adaptability and Resilience.
 
 </details>
+
+## Week 10 (23/10/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- ILT-ML-05-AJ Advanced Technique in Deeplearning with TensorFlow.
+- Weekly Consultation 10 - ML-25.
+  
+## Study Material Completed: 
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.
+- Convolutional Neural Networks in TensorFlow.
+  
+## Finished Assigment:
+- Reporting Learning Progress to Supervisor which in return I completed the milestone target for the 2nd month which granted me 500 points.
+
+</details>
+
+## Week 11 (30/10/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- ILT-SS-06-AY Professional Communications and Networking. (Annoying Assignment because im a bit shy)
+- Weekly Consultation 11 - ML-25.
+
+## Study Material Completed:
+- Natural Language Processing in TensorFlow. 
+- Sequences, Time Series and Prediction.
+
+## Finished Assigment:
+- Assignment: Project Management.
+- Online Learning #05 - Deeplearning.ai TensorFlow Developer Professional Certificate Coursera.
+
+</details>
+
+## Week 12 (6/11/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- ILT-ML-06-AC Model Deployment with TensorFlow.
+- Weekly Consultation 12 - ML-25.
+
+</details>
+
+## Week 13 (13/11/2023)
+<details>
+<summary>Open</summary>
+
+## Following activities:
+- Bangkit 2023 H2 - Student Team Meeting 3.
+- Weekly Consultation 13 - ML-25.
+
+## Finished Assigment:
+- Assignment: Professional Communication and Networking. 
+
+</details>
